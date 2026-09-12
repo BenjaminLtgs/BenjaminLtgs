@@ -11,7 +11,7 @@ Welcome to my professional github page. Here you will find all the project I wor
 Languages
 </div>
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=BenjaminLtgs&langs_count=5)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=BenjaminLtgs&langs_count=15)
 
 <div style="font-size:20px">
 Tools
